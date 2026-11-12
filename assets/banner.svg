@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Vijay Jonnakuti, VERA Technologies. Forward deployed data engineer and data and AI platform architect.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1B1036"/>
+      <stop offset="0.55" stop-color="#3B1F7A"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <!-- the VERA mark, echoing the profile picture -->
+  <g transform="translate(960 70)" fill="#FFFFFF" fill-opacity="0.14">
+    <path d="M0 0h40v30h30v60h20V30h30V0h40v70h-30v50h-30v40H60v-40H30V70H0z"/>
+  </g>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" fill="#FFFFFF">
+    <text x="72" y="92" font-size="20" font-weight="600" letter-spacing="4" fill="#C4B5FD">VERA TECHNOLOGIES</text>
+    <text x="72" y="158" font-size="60" font-weight="800" letter-spacing="-1">Vijay Jonnakuti</text>
+    <rect x="72" y="182" width="360" height="3" rx="1.5" fill="url(#line)"/>
+    <text x="72" y="226" font-size="24" font-weight="500" fill="#EDE9FE">Forward deployed data engineer · Data &amp; AI platform architect</text>
+    <text x="72" y="260" font-size="18" font-weight="400" fill="#C4B5FD">Newport Beach, CA</text>
+  </g>
+</svg>
