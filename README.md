@@ -26,13 +26,13 @@
 <h3>social-ops</h3>
 <p>A command-line tool that publishes one piece of media to 9 social platforms (Facebook, Instagram, Threads, TikTok, YouTube, LinkedIn, X, Pinterest, Bluesky) and collects the stats afterwards. Talks to each platform's REST API directly, with no vendor SDKs.</p>
 <p><img src="https://img.shields.io/badge/Python%203.13-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.13"> <img src="https://img.shields.io/badge/Typer-1F2937?style=flat-square" alt="Typer"> <img src="https://img.shields.io/badge/Pydantic%20v2-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic v2"> <img src="https://img.shields.io/badge/httpx-1F2937?style=flat-square" alt="httpx"> <img src="https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" alt="ffmpeg"></p>
-<p><img src="https://img.shields.io/badge/commits-170-6D28D9?style=flat-square" alt="commits: 170"></p>
+<p><img src="https://img.shields.io/badge/commits-170-6D28D9?style=flat-square" alt="commits: 170"> <img src="https://img.shields.io/badge/pull%20requests-3-6D28D9?style=flat-square" alt="pull requests: 3"></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://www.offersnear.me">offersnear.me</a></h3>
 <p>A location-aware deals platform with privacy-preserving geolocation and a pipeline that pulls from 15+ deal vendors.</p>
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"> <img src="https://img.shields.io/badge/Serverless%20AWS-FF9900?style=flat-square" alt="Serverless AWS"></p>
-<p><img src="https://img.shields.io/badge/commits-155-6D28D9?style=flat-square" alt="commits: 155"></p>
+<p><img src="https://img.shields.io/badge/commits-155-6D28D9?style=flat-square" alt="commits: 155"> <img src="https://img.shields.io/badge/pull%20requests-29-6D28D9?style=flat-square" alt="pull requests: 29"></p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@
 | **Commits across private repositories since April 2026** | 1,100+ |
 | **Private repositories with active work** | 5 (four above, one client project) |
 | **kudo.kids** | 647 commits, 209 branches, 93 pull requests (90 merged), 600+ issues tracked |
-| **social-ops** | 170 commits, 840+ offline unit tests, about 28,500 lines of Python, CI on every push |
+| **social-ops** | 170 commits, 3 pull requests, 840+ offline unit tests, about 28,500 lines of Python, CI on every push |
 | **offersnear.me** | 155 commits, 29 pull requests |
 
 ## How I build
