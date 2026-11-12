@@ -16,9 +16,9 @@ page says what it is.
 | Project | What it is | Stack | Commits |
 | --- | --- | --- | --- |
 | **social-ops** | A command-line tool that publishes one piece of media to 9 social platforms (Facebook, Instagram, Threads, TikTok, YouTube, LinkedIn, X, Pinterest, Bluesky) and collects the stats afterwards. Talks to each platform's REST API directly, with no vendor SDKs. | Python 3.13, Typer, Pydantic v2, httpx, ffmpeg | 168 |
-| **offersnear.me** | A location-aware deals platform with privacy-preserving geolocation and a pipeline that pulls from 15+ deal vendors. | TypeScript, Swift, Terraform, serverless AWS | 152 |
-| **veratech.dev** | The studio's website. | Astro | 39 |
-| **kudo.kids** | A cross-platform mobile and web app, live on the App Store, that runs for about $2.30 a month. | React Native / Expo, AWS Lambda, DynamoDB, CloudFront | |
+| **[offersnear.me](https://www.offersnear.me)** | A location-aware deals platform with privacy-preserving geolocation and a pipeline that pulls from 15+ deal vendors. | TypeScript, Swift, Terraform, serverless AWS | 152 |
+| **[veratech.dev](https://www.veratech.dev)** | The studio's website. | Astro | 39 |
+| **[kudo.kids](https://www.kudo.kids)** | A cross-platform mobile and web app, live on the App Store, that runs for about $2.30 a month. | React Native / Expo, AWS Lambda, DynamoDB, CloudFront | |
 
 More projects and case studies: [www.veratech.dev](https://www.veratech.dev)
 
