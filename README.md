@@ -32,7 +32,7 @@
 <h3><a href="https://www.offersnear.me">offersnear.me</a></h3>
 <p>A location-aware deals platform with privacy-preserving geolocation and a pipeline that pulls from 15+ deal vendors.</p>
 <p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"> <img src="https://img.shields.io/badge/Serverless%20AWS-FF9900?style=flat-square" alt="Serverless AWS"></p>
-<p><img src="https://img.shields.io/badge/commits-155-6D28D9?style=flat-square" alt="commits: 155"> <img src="https://img.shields.io/badge/pull%20requests-29-6D28D9?style=flat-square" alt="pull requests: 29"></p>
+<p><img src="https://img.shields.io/badge/commits-155-6D28D9?style=flat-square" alt="commits: 155"> <img src="https://img.shields.io/badge/pull%20requests-29-6D28D9?style=flat-square" alt="pull requests: 29"> <img src="https://img.shields.io/badge/issues-111-6D28D9?style=flat-square" alt="issues: 111"></p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@
 <h3><a href="https://www.kudo.kids">kudo.kids</a></h3>
 <p>A cross-platform mobile and web app, live on the App Store, designed, built and shipped end to end on a serverless backend.</p>
 <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"> <img src="https://img.shields.io/badge/Capacitor%20%28iOS%2C%20Android%29-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor (iOS, Android)"> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"> <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square" alt="AWS Lambda"> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square" alt="DynamoDB"> <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square" alt="CloudFront"></p>
-<p><img src="https://img.shields.io/badge/commits-647-6D28D9?style=flat-square" alt="commits: 647"> <img src="https://img.shields.io/badge/branches-209-6D28D9?style=flat-square" alt="branches: 209"> <img src="https://img.shields.io/badge/pull%20requests-93-6D28D9?style=flat-square" alt="pull requests: 93"></p>
+<p><img src="https://img.shields.io/badge/commits-647-6D28D9?style=flat-square" alt="commits: 647"> <img src="https://img.shields.io/badge/branches-209-6D28D9?style=flat-square" alt="branches: 209"> <img src="https://img.shields.io/badge/pull%20requests-93-6D28D9?style=flat-square" alt="pull requests: 93"> <img src="https://img.shields.io/badge/issues-608-6D28D9?style=flat-square" alt="issues: 608"></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://www.veratech.dev">veratech.dev</a></h3>
@@ -59,6 +59,7 @@
   <img src="https://img.shields.io/badge/commits%20since%20Apr%202026-1%2C100%2B-6D28D9?style=for-the-badge" alt="commits since Apr 2026: 1,100+">
   <img src="https://img.shields.io/badge/private%20repositories-5-6D28D9?style=for-the-badge" alt="private repositories: 5">
   <img src="https://img.shields.io/badge/pull%20requests-120%2B-6D28D9?style=for-the-badge" alt="pull requests: 120+">
+  <img src="https://img.shields.io/badge/issues%20tracked-700%2B-6D28D9?style=for-the-badge" alt="issues tracked: 700+">
   <img src="https://img.shields.io/badge/offline%20unit%20tests-840%2B-6D28D9?style=for-the-badge" alt="offline unit tests: 840+">
   <img src="https://img.shields.io/badge/lines%20of%20Python-~28%2C500-6D28D9?style=for-the-badge" alt="lines of Python: ~28,500">
 </p>
@@ -69,9 +70,9 @@
 | :-- | :-- |
 | **Commits across private repositories since April 2026** | 1,100+ |
 | **Private repositories with active work** | 5 (four above, one client project) |
-| **kudo.kids** | 647 commits, 209 branches, 93 pull requests (90 merged), 600+ issues tracked |
+| **kudo.kids** | 647 commits, 209 branches, 93 pull requests (90 merged), 608 issues tracked |
 | **social-ops** | 170 commits, 3 pull requests, 840+ offline unit tests, about 28,500 lines of Python, CI on every push |
-| **offersnear.me** | 155 commits, 29 pull requests |
+| **offersnear.me** | 155 commits, 29 pull requests, 111 issues tracked |
 
 ## How I build
 
