@@ -53,27 +53,6 @@
 
 <p align="center">More projects and case studies: <a href="https://www.veratech.dev"><b>www.veratech.dev</b></a></p>
 
-## Commit activity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/commits%20since%20Apr%202026-1%2C100%2B-6D28D9?style=for-the-badge" alt="commits since Apr 2026: 1,100+">
-  <img src="https://img.shields.io/badge/private%20repositories-5-6D28D9?style=for-the-badge" alt="private repositories: 5">
-  <img src="https://img.shields.io/badge/pull%20requests-120%2B-6D28D9?style=for-the-badge" alt="pull requests: 120+">
-  <img src="https://img.shields.io/badge/issues%20tracked-700%2B-6D28D9?style=for-the-badge" alt="issues tracked: 700+">
-  <img src="https://img.shields.io/badge/offline%20unit%20tests-840%2B-6D28D9?style=for-the-badge" alt="offline unit tests: 840+">
-  <img src="https://img.shields.io/badge/lines%20of%20Python-~28%2C500-6D28D9?style=for-the-badge" alt="lines of Python: ~28,500">
-</p>
-
-<p align="center"><sub>As of November 12, 2026</sub></p>
-
-| | |
-| :-- | :-- |
-| **Commits across private repositories since April 2026** | 1,100+ |
-| **Private repositories with active work** | 5 (four above, one client project) |
-| **kudo.kids** | 647 commits, 209 branches, 93 pull requests (90 merged), 608 issues tracked |
-| **social-ops** | 170 commits, 3 pull requests, 840+ offline unit tests, about 28,500 lines of Python, CI on every push |
-| **offersnear.me** | 155 commits, 29 pull requests, 111 issues tracked |
-
 ## How I build
 
 <table>
@@ -98,6 +77,27 @@ All new development is built cloud native, and serverless where it fits, so noth
 </td>
 </tr>
 </table>
+
+## Commit activity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/commits%20since%20Apr%202026-1%2C100%2B-6D28D9?style=for-the-badge" alt="commits since Apr 2026: 1,100+">
+  <img src="https://img.shields.io/badge/private%20repositories-5-6D28D9?style=for-the-badge" alt="private repositories: 5">
+  <img src="https://img.shields.io/badge/pull%20requests-120%2B-6D28D9?style=for-the-badge" alt="pull requests: 120+">
+  <img src="https://img.shields.io/badge/issues%20tracked-700%2B-6D28D9?style=for-the-badge" alt="issues tracked: 700+">
+  <img src="https://img.shields.io/badge/offline%20unit%20tests-840%2B-6D28D9?style=for-the-badge" alt="offline unit tests: 840+">
+  <img src="https://img.shields.io/badge/lines%20of%20Python-~28%2C500-6D28D9?style=for-the-badge" alt="lines of Python: ~28,500">
+</p>
+
+<p align="center"><sub>As of November 12, 2026</sub></p>
+
+| | |
+| :-- | :-- |
+| **Commits across private repositories since April 2026** | 1,100+ |
+| **Private repositories with active work** | 5 (four above, one client project) |
+| **kudo.kids** | 647 commits, 209 branches, 93 pull requests (90 merged), 608 issues tracked |
+| **social-ops** | 170 commits, 3 pull requests, 840+ offline unit tests, about 28,500 lines of Python, CI on every push |
+| **offersnear.me** | 155 commits, 29 pull requests, 111 issues tracked |
 
 ## Work with me
 
