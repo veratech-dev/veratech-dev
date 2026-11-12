@@ -39,7 +39,8 @@ As of November 12, 2026:
   that can create a post, so a crash never produces a duplicate.
 - **Configuration over code.** A new client, pipeline or platform should be a config file, not a project.
 - **Tests gate everything, including AI-written code.**
-- **Small running costs.** Serverless by default; nothing runs when nobody is using it.
+- **Cloud native by default.** All new development is built cloud native, and serverless where it fits, so nothing
+  runs when nobody is using it.
 
 ## Work with me
 
